@@ -15,4 +15,4 @@ Welcome to Algorithm Visualizer! I built this application because I was fascinat
 <li>CSS</li>
 <li>JAVASCRIPT</li><br>
 
-You can see the [Live DEMO here](https://amanchowdhury046.github.io/AlgorithmVisualizer/)
+
